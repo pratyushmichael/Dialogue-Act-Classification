@@ -1,0 +1,4 @@
+['Go','home','0'] com
+['He','is','going'] info
+['Move','back','0'] com
+['Leave','me','0'] com

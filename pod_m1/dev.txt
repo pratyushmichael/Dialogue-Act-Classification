@@ -1,0 +1,4 @@
+Go home#com
+He is going#info
+Move left#com
+Leave me#com

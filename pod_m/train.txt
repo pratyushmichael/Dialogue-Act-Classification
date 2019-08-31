@@ -1,0 +1,5 @@
+['Go','away','0'] com
+['I','am','going'] info
+['Walk','away','0'] com
+['I','miss','home'] info
+['Bend','thy','knee'] com
